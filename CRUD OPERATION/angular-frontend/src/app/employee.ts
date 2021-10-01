@@ -4,3 +4,4 @@ export class Employee {
   lastName!: string;
   emailId!: string;
 }
+//database column name
