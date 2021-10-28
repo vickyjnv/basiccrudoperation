@@ -30,6 +30,7 @@ public class Employee {
         this.firstName = firstName;
         this.lastName = lastName;
         this.emailId = emailId;
+        System.out.println("testing");
     }
 
     public long getId() {
