@@ -18,6 +18,8 @@ public class Employee {
     private String lastName;
     @Column(name = "email_id")
     private String emailId;
+    
+    // Adding console input line for testing
 
 
     public Employee(){
